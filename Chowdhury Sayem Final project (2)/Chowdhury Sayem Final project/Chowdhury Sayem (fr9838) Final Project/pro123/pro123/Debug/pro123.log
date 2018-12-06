@@ -1,0 +1,22 @@
+﻿  car.cpp
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\car.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(203): warning C4101: 'x': unreferenced local variable
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(264): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(286): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(314): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(331): warning C4101: 't': unreferenced local variable
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(376): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(346): warning C4101: 'option': unreferenced local variable
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(405): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(446): warning C4101: 'x': unreferenced local variable
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(478): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(501): warning C4018: '<': signed/unsigned mismatch
+d:\c++ boss\cse assignments 2110\chowdhury sayem final project (2)\chowdhury sayem final project\chowdhury sayem (fr9838) final project\pro123\pro123\main.cpp(545): warning C4018: '<': signed/unsigned mismatch
+  newcar.cpp
+  oldcar.cpp
+  Generating Code...
+  pro123.vcxproj -> D:\c++ BOSS\CSE Assignments 2110\Chowdhury Sayem Final project (2)\Chowdhury Sayem Final project\Chowdhury Sayem (fr9838) Final Project\pro123\Debug\pro123.exe
